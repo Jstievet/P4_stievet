@@ -170,7 +170,7 @@ a:hover {
 }
 
 .d-bloc .panel {
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(0, 0, 0, 0.9);
 }
 
 .d-bloc .panel button:hover {
@@ -201,7 +201,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(0, 0, 0, 0.9);
 }
 
 .d-bloc .panel button:hover,
@@ -867,10 +867,6 @@ h4 {
   padding-top: 35px;
   color: #000000;
 }
-.text-commentaire-gris {
-  color: grey !important;
-}
-
 @media (max-width: 1024px) {
   .bloc {
     padding-left: 20px;
