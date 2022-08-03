@@ -91,12 +91,12 @@ a:hover {
 }
 
 .texture-paper::before {
-  background: url("/img/texture-paper.png");
+  background: url("/P4_stievet/img/texture-paper.png");
   background-size: 280px 280px;
 }
 @media (max-width: 768px) {
   .texture-paper::before {
-    background: url("/img/texture-paper_small.png");
+    background: url("/P4_stievet/img/texture-paper_small.png");
     background-size: 280px 280px;
   }
 }
