@@ -821,7 +821,7 @@ h4 {
 }
 
 .bg-dots-bg {
-  background-image: url("/img/dots-bg.png");
+  background-image: url("/P4_stievet/img/dots-bg.png");
 }
 
 .bg-lines-h2-bg {
@@ -837,15 +837,15 @@ h4 {
 }
 @media (max-width: 776px) {
   .bg-lines-h2-bg {
-    background-image: url("/img/lines-h2-bg.png");
+    background-image: url("/P4_stievet/img/lines-h2-bg.png");
   }
 
   .bg-banniere {
-    background-image: url("/img/agence-la-panthere.webp");
+    background-image: url("/P4_stievet/img/agence-la-panthere.webp");
   }
 
   .bg-presentation {
-    background-image: url("/img/image-de-presentation_medium.jpg");
+    background-image: url("/P4_stievet/img/image-de-presentation_medium.jpg");
   }
 }
 /*css pôur les texte auparavant présent en img */
